@@ -10,7 +10,7 @@ export default function ProjectUrl({ url }: ProjectUrlProps) {
     return (
         <Link
             target="_blank"
-            href={url}
+            href={https://github.com/Abhishek-DS-ML-Gupta/takeport}
             className="text-neutral-100 uppercase text-label-md font-label flex items-center gap-6 hover:text-neutral-50 relative hover:border-b-neutral-100 border-b-transparent border-b transition-color duration-300 w-fit"
         >
             View Live
